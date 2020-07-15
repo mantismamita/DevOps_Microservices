@@ -1,0 +1,15 @@
+python3 -m venv ~/.microservices-proj
+source ~/.microservices-proj/bin/activate
+
+make install
+
+minikube version
+minikube start
+
+#wait for Done!
+
+kubectl version
+
+kubectl cluster-info
+
+kubectl get nodes
