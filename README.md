@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<mantismamita>](https://circleci.com/<gh>/<mantismamita>/<DevOps_Microservices>.svg?style=svg)](<https://app.circleci.com/pipelines/github/mantismamita/DevOps_Microservices>)
 
 ## Project Overview
 
