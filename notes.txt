@@ -1,5 +1,5 @@
-python3 -m venv ~/.microservices-proj
-source ~/.microservices-proj/bin/activate
+python3 -m venv ~/.devops
+source ~/.devops/bin/activate
 
 make install
 
